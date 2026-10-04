@@ -1,89 +1,46 @@
 # Brooken Streets 🎮
 
-> An independent game project built from the ground up.
+> **Build your empire. Make money. Take over the streets.**
 
-[![Status](https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square)]()
-[![Engine](https://img.shields.io/badge/Engine-Unity-black?style=flat-square&logo=unity)]()
-[![Language](https://img.shields.io/badge/Language-C%23-239120?style=flat-square&logo=csharp&logoColor=white)]()
-[![Shaders](https://img.shields.io/badge/Shaders-HLSL-5C2D91?style=flat-square)]()
-[![3D](https://img.shields.io/badge/3D-Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)]()
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](YOUR_DISCORD_LINK)
+**Brooken Streets** is an indie game where you build your own drug empire from the ground up.
+
+Start small, make deals, expand your business and take control of the streets.  
+How far you go is up to you.
 
 ---
 
 ## 🎮 About
 
-**Brooken Streets** is an indie game currently being developed by a solo developer.
+In **Brooken Streets**, you start with almost nothing and build your way to the top.
 
-The goal is to build as much of the game as possible from the ground up — from gameplay and tools to shaders, systems and 3D assets.
+- 💰 Build and expand your empire
+- 📦 Buy, produce and sell
+- 🏠 Expand your operations
+- 🤝 Deal with different characters
+- ⚔️ Compete for control of the streets
+- 🌆 Explore and interact with the world
 
-No large team. No shortcuts.
-
-Just building things, breaking them, and figuring out how to make them work.
-
----
-
-## 🏗️ Built From Scratch
-
-A big part of the project is creating the technology and content ourselves.
-
-- 🎮 Gameplay & systems
-- 💻 C# programming
-- 🎨 Custom HLSL shaders
-- 🧩 Custom tools & workflows
-- 🧱 3D assets
-- 🎨 Materials & textures
-- 🌍 Environments
-- 🛠️ Editor tooling
-- ⚡ Optimization
+The game is currently **in development**.
 
 ---
 
-## 🔧 Tech Stack
+## 🛠️ Built With
 
-### Game
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![HLSL](https://img.shields.io/badge/HLSL-5C2D91?style=flat-square)
-
-### 3D & Content
-
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
-
-### Development
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+- 🎮 **Unity**
+- 💻 **C#**
+- 🎨 **HLSL**
+- 🧱 **Blender**
 
 ---
 
-## 🚧 Current Project
+## 🚧 Development
 
-### Brooken Streets
+Brooken Streets is being developed independently from the ground up.
 
-**Status:** `IN DEVELOPMENT`
-
-Currently working on the core technology, gameplay systems, visuals and content.
-
-The project is actively evolving, so things may change or be completely rebuilt when necessary.
-
----
-
-## 📂 Repositories
-
-This organization contains repositories related to the development of **Brooken Streets**, including:
-
-- 🎮 Game code
-- 🎨 Shaders
-- 🛠️ Development tools
-- 🧩 Experiments & prototypes
-- 📦 Supporting systems
-
-Some repositories may remain private during development.
+The project is still in active development, so features, gameplay and visuals may change over time.
 
 ---
 
 <p align="center">
-  <sub>Brooken Streets · Indie Game Development · Built from scratch</sub>
+  <sub>Brooken Streets · Indie Game Development</sub>
 </p>
